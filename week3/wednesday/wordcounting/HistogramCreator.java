@@ -30,7 +30,6 @@ public class HistogramCreator {
 //		System.out.println(HumanReadableMap.returnMapAsString(histogram));
 		return histogram;
 		
-		
 	}
 	
 	public static void main(String[] args) {
