@@ -13,7 +13,7 @@ public class Task {
 		this.name = name;
 		this.priority = priority;
 		this.hoursToFinish = hoursToFinish;
-		status = status.TODO;
+		status = friday.todo.status.TODO;
 	}
 
 
